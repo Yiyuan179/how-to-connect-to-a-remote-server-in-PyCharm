@@ -1,7 +1,7 @@
 # How to connect to a remote server in PyCharm
 
 ## 概述 / Overview
-本指南介绍了如何使用 PyCharm 远程连接服务器，适用于科研和开发用途。对于需要在远程服务器上开发和执行代码的研究人员特别有用。
+本指南介绍了如何使用[PyCharm 远程连接服务器](服务器连接教程.md)，适用于科研和开发用途。对于需要在远程服务器上开发和执行代码的研究人员特别有用。
 
 This guide provides instructions on how to connect PyCharm to a remote server for research and development purposes. It is particularly useful for researchers who need to develop and execute code remotely.
 
